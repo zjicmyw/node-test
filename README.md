@@ -1,6 +1,6 @@
 ## node-blog
 
-新人向  学习使用 Express + SQL Server
+新人向  学习NODEJS
 
 
 ## 开发环境
