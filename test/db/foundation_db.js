@@ -1,5 +1,5 @@
 var sqlserver = require('mssql');
-var dbConfig = require('../config_js/config_db');
+var dbConfig = require('../../config_js/config_db');
 
 // console.log(dbConfig)
 var db = function(strsql){
