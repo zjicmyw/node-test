@@ -1,6 +1,6 @@
 ## node-blog
 
-新人向  学习使用 Express + SQL Server 搭建多人博客
+新人向  学习使用 Express + SQL Server
 
 
 ## 开发环境
